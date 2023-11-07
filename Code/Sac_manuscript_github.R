@@ -8,6 +8,7 @@ library(geosphere)
 library(ANCOMBC)
 library(microbiome)
 library(MicrobiotaProcess)
+library(ggplot2)
 
 ###Section 1: Assessing statistical assumptions of data, transforming for correlations analyses, and correlational analyses
 
